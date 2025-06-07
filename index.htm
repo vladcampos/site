@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Responsive Link Landing Page</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #FFFFFF;
+            color: #333;
+        }
+
+        .container {
+            max-width: 960px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #000000;
+            margin-bottom: 30px;
+        }
+
+        .columns-wrapper {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 40px;
+            justify-content: center;
+        }
+
+        .column {
+            flex: 1;
+            min-width: 280px;
+            padding: 20px;
+            border: 1px solid #eee;
+            border-radius: 5px;
+            background-color: #f9f9f9;
+        }
+
+        .column h2 {
+            margin-top: 0;
+            color: #000000;
+            border-bottom: 1px solid #ddd;
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+        }
+
+        .column ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        .column ul li {
+            margin-bottom: 15px;
+            display: flex;
+            align-items: center;
+        }
+
+        .column ul li a {
+            text-decoration: none;
+            color: rgb(45, 155, 45);
+            font-size: 1.1em;
+            transition: color 0.3s ease;
+        }
+
+        .column ul li a:hover {
+            color: rgb(35, 120, 35);
+        }
+
+        .column ul li i {
+            margin-right: 10px;
+            color: #000000;
+        }
+
+        /* Responsive adjustments for smaller screens */
+        @media (max-width: 768px) {
+            .columns-wrapper {
+                flex-direction: column;
+                align-items: center;
+            }
+
+            .column {
+                width: 90%;
+                margin-bottom: 20px;
+            }
+        }
+
+        /* Style for the image */
+        .logo {
+            display: block;
+            margin: 0 auto; /* Center the image horizontally */
+            max-width: 300px; /* Adjust as needed */
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <img src="https://publish-01.obsidian.md/access/54a5cde44e33737dbd9582dc8b12cf1f/vladcampos.com/_files/logo-vladcamposdotcom.png" alt="vladcampos.com logo" class="logo">
+		<br />
+        <div class="columns-wrapper">
+            <div class="column">
+                <h3>English</h2>
+                <ul>
+                    <li><i class="fa-brands fa-youtube"></i><a href="https://www.youtube.com/@vladcampos">YouTube</a></li>
+                    <li><i class="fa-brands fa-mastodon"></i><a href="https://mastodon.social/@vladcampos">Mastodon</a></li>
+                    <li><i class="fa-brands fa-bluesky"></i><a href="https://bsky.app/profile/vladcampos.mastodon.social.ap.brid.gy">Bluesky</a></li>
+                    <li><i class="fa-brands fa-patreon"></i></i><a href="https://www.patreon.com/c/vladcampos">Patreon</a></li>
+                    <li><i class="fa-solid fa-globe"></i><a href="https://vladcampos.com">Website</a></li>
+                </ul>
+            </div>
+
+            <div class="column">
+                <h3>Português</h2>
+                <ul>
+                    <li><i class="fa-brands fa-youtube"></i><a href="#">YouTube</a></li>
+                    <li><i class="fa-brands fa-mastodon"></i><a href="#">Mastodon</a></li>
+                    <li><i class="fa-brands fa-bluesky"></i><a href="#">Bluesky</a></li>
+                    <li><i class="fa-brands fa-patreon"></i></i><a href="#">Patreon</a></li>
+                    <li><i class="fa-solid fa-globe"></i><a href="#">Website</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>
