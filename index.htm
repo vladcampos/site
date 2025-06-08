@@ -10,22 +10,22 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 20px;
-            background-color: #FFFFFF;
-            color: #333;
+            background-color: #000000; /* Black background */
+            color: #FFFFFF; /* Default text color to white */
         }
 
         .container {
             max-width: 960px;
             margin: 0 auto;
             padding: 20px;
-            background-color: #fff;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            background-color: #000000; /* Black background for container */
+            box-shadow: none; /* No box-shadow */
             border-radius: 8px;
         }
 
         h1 {
             text-align: center;
-            color: #000000;
+            color: #FFFFFF; /* White heading */
             margin-bottom: 30px;
         }
 
@@ -40,18 +40,19 @@
             flex: 1;
             min-width: 280px;
             padding: 20px;
-            border: 1px solid #eee;
+            border: none; /* No border */
             border-radius: 5px;
-            background-color: #f9f9f9;
+            background-color: #000000; /* Black background for columns */
         }
 
-        .column h2 {
-            margin-top: 0;
-            color: #000000;
-            border-bottom: 1px solid #ddd;
-            padding-bottom: 10px;
-            margin-bottom: 20px;
-        }
+        .column h3 {
+    		margin-top: 0;
+    		color: #FFFFFF; /* White h3 heading */
+    		border-bottom: none; /* No border-bottom */
+    		padding-bottom: 10px;
+    		margin-bottom: 20px;
+    		text-align: center; /* This is the new line to center the text */
+		}
 
         .column ul {
             list-style: none;
@@ -61,24 +62,46 @@
 
         .column ul li {
             margin-bottom: 15px;
-            display: flex;
-            align-items: center;
+            /* Removed flex and gap here, as the flex is now inside the <a> */
         }
 
         .column ul li a {
             text-decoration: none;
-            color: rgb(45, 155, 45);
+            color: rgb(45, 155, 45); /* Green link text */
             font-size: 1.1em;
-            transition: color 0.3s ease;
+            
+            /* Button specific styles */
+            display: flex; /* Changed to flex to align icon and text inside */
+            align-items: center; /* Vertically center icon and text */
+            gap: 10px; /* Space between icon and text inside the button */
+            padding: 10px 15px;
+            border: 1px solid rgb(45, 155, 45); /* Green border */
+            border-radius: 5px;
+            justify-content: center; /* Center content horizontally within button */
+            width: 100%; /* Make button take full width of its container */
+            box-sizing: border-box; /* Include padding and border in the element's total width */
+            transition: all 0.3s ease; /* Smooth transition for hover effects */
+            background-color: transparent; /* Transparent background by default */
         }
 
         .column ul li a:hover {
-            color: rgb(35, 120, 35);
+            background-color: rgb(45, 155, 45); /* Fill button with green on hover */
+            color: #000000; /* Change text to black on hover */
+            border-color: rgb(45, 155, 45); /* Keep border color consistent on hover */
         }
 
-        .column ul li i {
-            margin-right: 10px;
-            color: #000000;
+        .column ul li a i { /* Now targeting the i tag inside the a tag */
+            /* No explicit color here, it will inherit from the parent <a> tag */
+            /* On hover, the icon will also turn black along with the text */
+            flex-shrink: 0; /* Prevent icon from shrinking */
+        }
+
+        /* Style for the image */
+        .logo {
+            display: block;
+            margin: 0 auto 30px auto; /* Centered, with margin below */
+            max-width: 300px;
+            height: auto;
         }
 
         /* Responsive adjustments for smaller screens */
@@ -93,41 +116,33 @@
                 margin-bottom: 20px;
             }
         }
-
-        /* Style for the image */
-        .logo {
-            display: block;
-            margin: 0 auto; /* Center the image horizontally */
-            max-width: 300px; /* Adjust as needed */
-            height: auto;
-        }
     </style>
 </head>
 <body>
 
     <div class="container">
         <img src="https://publish-01.obsidian.md/access/54a5cde44e33737dbd9582dc8b12cf1f/vladcampos.com/_files/logo-vladcamposdotcom.png" alt="vladcampos.com logo" class="logo">
-		<br />
+
         <div class="columns-wrapper">
             <div class="column">
-                <h3>English</h2>
+                <h3>English</h3>
                 <ul>
-                    <li><i class="fa-brands fa-youtube"></i><a href="https://www.youtube.com/@vladcampos">YouTube</a></li>
-                    <li><i class="fa-brands fa-mastodon"></i><a rel="me" href="https://mastodon.social/@vladcampos">Mastodon</a>Mastodon</a></li>
-                    <li><i class="fa-brands fa-bluesky"></i><a href="https://bsky.app/profile/vladcampos.mastodon.social.ap.brid.gy">Bluesky</a></li>
-                    <li><i class="fa-brands fa-patreon"></i></i><a href="https://www.patreon.com/c/vladcampos">Patreon</a></li>
-                    <li><i class="fa-solid fa-globe"></i><a href="https://vladcampos.com">Website</a></li>
+                    <li><a href="https://www.youtube.com/@vladcampos"><i class="fa-brands fa-youtube"></i>YouTube</a></li>
+                    <li><a rel="me" href="https://mastodon.social/@vladcampos"><i class="fa-brands fa-mastodon"></i>Mastodon</a></li>
+                    <li><a href="https://bsky.app/profile/vladcampos.com"><i class="fa-brands fa-bluesky"></i>Bluesky</a></li>
+                    <li><a href="https://www.patreon.com/vladcampos"><i class="fa-brands fa-patreon"></i>Patreon</a></li>
+                    <li><a href="https://vladcampos.com"><i class="fa-solid fa-globe"></i>Website</a></li>
                 </ul>
             </div>
 
             <div class="column">
-                <h3>Português</h2>
+                <h3>Português</h3>
                 <ul>
-                    <li><i class="fa-brands fa-youtube"></i><a href="#">YouTube</a></li>
-                    <li><i class="fa-brands fa-mastodon"></i><a href="#">Mastodon</a></li>
-                    <li><i class="fa-brands fa-bluesky"></i><a href="#">Bluesky</a></li>
-                    <li><i class="fa-brands fa-patreon"></i></i><a href="#">Patreon</a></li>
-                    <li><i class="fa-solid fa-globe"></i><a href="#">Website</a></li>
+                    <li><a href="https://www.youtube.com/@vladcamposTV"><i class="fa-brands fa-youtube"></i>YouTube</a></li>
+                    <li><a href="https://mastodon.social/@pt.vladcampos.com@bsky.brid.gy"><i class="fa-brands fa-mastodon"></i>Mastodon</a></li>
+                    <li><a href="https://bsky.app/profile/pt.vladcampos.com"><i class="fa-brands fa-bluesky"></i>Bluesky</a></li>
+                    <li><a href="https://www.patreon.com/portalvladcampos"><i class="fa-brands fa-patreon"></i>Patreon</a></li>
+                    <li><a href="https://pt.vladcampos.com"><i class="fa-solid fa-globe"></i>Website</a></li>
                 </ul>
             </div>
         </div>
