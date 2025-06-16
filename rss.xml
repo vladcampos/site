@@ -5,7 +5,7 @@
         <link>https://vladcampos.com</link>
         <description>Thoughts and articles from one enthusiast to another.</description>
         <language>en-us</language>
-        <lastBuildDate>Mon, 16 Jun 2025 11:32:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Jun 2025 13:32:00 GMT</lastBuildDate>
         <atom:link href="https://social.vladcampos.com/rss.xml" rel="self" type="application/rss+xml" />
    <image>
         <url>https://social.vladcampos.com/favicon-196x196.png</url>
@@ -18,6 +18,14 @@
         <guid isPermaLink="true">https://vladcampos.com/2025-06-16-things-you-should-know-about-obsidian-publish</guid>
         <description>Obsidian Publish has been a game-changer for my online presence, but like any powerful tool, it comes with its quirks. Here are the hurdles I’ve faced and how I’m jumping them.</description>
         <pubDate>Mon, 16 Jun 2025 11:32:00 GMT</pubDate>
+    </item>
+    <item>
+        <title>Turning Bluesky into Instagram - my unexpected workflow.</title>
+        <link>https://vladcampos.com/2025-06-14-turning-bluesky-into-instagram-my-unexpected-workflow</link>
+        <guid isPermaLink="true">https://vladcampos.com/2025-06-14-turning-bluesky-into-instagram-my-unexpected-workflow</guid>
+        <description>Apps like Pinksky transform your Bluesky feed into a visual, Instagram-style experience, but there&apos;s a catch.</description>
+        <pubDate>Sun, 15 Jun 2025 10:31:00 GMT</pubDate>
+        <media:content url="https://publish-01.obsidian.md/access/54a5cde44e33737dbd9582dc8b12cf1f/vladcampos.com/_files/2025-06-14-pinksky-post-cover-art.png" medium="image" type="image/png" />
     </item>
     </channel>
 </rss>
