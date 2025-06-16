@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>vladcampos Blog</title>
+        <link>https://vladcampos.com</link>
+        <description>Thoughts and articles from one enthusiast to another.</description>
+        <language>en-us</language>
+        <lastBuildDate>Mon, 16 Jun 2025 11:32:00 GMT</lastBuildDate>
+        <atom:link href="https://social.vladcampos.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+        <title>Things you should know about Obsidian Publish —my struggles and how I&apos;m dealing with them.</title>
+        <link>https://vladcampos.com/2025-06-16-things-you-should-know-about-obsidian-publish</link>
+        <guid isPermaLink="true">https://vladcampos.com/2025-06-16-things-you-should-know-about-obsidian-publish</guid>
+        <description>Obsidian Publish has been a game-changer for my online presence, but like any powerful tool, it comes with its quirks. Here are the hurdles I’ve faced and how I’m jumping them.</description>
+        <pubDate>Mon, 16 Jun 2025 11:32:00 GMT</pubDate>
+    </item>
+    </channel>
+</rss>
