@@ -13,6 +13,14 @@
         <link>https://vladcampos.com/blog</link>
    </image>
     <item>
+        <title>📃 Fed up with Obsidian Publish&apos;s limited RSS? Here&apos;s how I hacked a better feed.</title>
+        <link>https://vladcampos.com/2025-06-18-fed-up-with-obsidian-publishs-limited-rss-heres-how-I-hacked-a-better-feed</link>
+        <guid isPermaLink="true">https://vladcampos.com/2025-06-18-fed-up-with-obsidian-publishs-limited-rss-heres-how-I-hacked-a-better-feed</guid>
+        <description>If you&apos;re an Obsidian Publish user, you&apos;ve probably stumbled upon its default RSS feed by adding /rss.xml to your domain. And if you&apos;re like me, you quickly realized how incredibly limited it is – so limited, in fact, that it&apos;s practically unusable for serious blogging. </description>
+        <pubDate>Wed, 18 Jun 2025 17:28:00 GMT</pubDate>
+        <media:content url="https://publish-01.obsidian.md/access/54a5cde44e33737dbd9582dc8b12cf1f/vladcampos.com/_files/2025-06-18-fed-up-with-obsidian-publish-s-limited-rss-heres-how-I-hacked-a-better-feed.png" medium="image" type="image/png" />
+    </item>
+    <item>
         <title>📺 How I created a better RSS feed for Obsidian Publish</title>
         <link>https://vladcampos.com/2025-06-18-how-i-created-a-better-rss-feed-for-obsidian-publish</link>
         <guid isPermaLink="true">https://vladcampos.com/2025-06-18-how-i-created-a-better-rss-feed-for-obsidian-publish</guid>
