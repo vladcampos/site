@@ -5,14 +5,22 @@
         <link>https://vladcampos.com</link>
         <description>Thoughts and articles from one enthusiast to another.</description>
         <language>en-us</language>
-        <lastBuildDate>Tue, 17 Jun 2025 10:12:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Jun 2025 17:07:00 GMT</lastBuildDate>
         <atom:link href="https://social.vladcampos.com/rss.xml" rel="self" type="application/rss+xml" />
    <image>
         <url>https://social.vladcampos.com/favicon-196x196.png</url>
         <title>vladcampos Blog</title>
         <link>https://vladcampos.com/blog</link>
    </image>
-   <item>
+    <item>
+        <title>📺 How I created a better RSS feed for Obsidian Publish</title>
+        <link>https://vladcampos.com/2025-06-18-how-i-created-a-better-rss-feed-for-obsidian-publish</link>
+        <guid isPermaLink="true">https://vladcampos.com/2025-06-18-how-i-created-a-better-rss-feed-for-obsidian-publish</guid>
+        <description>If you&apos;re an Obsidian Publish user struggling with the default RSS feed, this video is a walkthrough of how I &apos;hacked&apos; a chronological RSS solution. Please also head over to the article mentioned in the video for step-by-step instructions.</description>
+        <pubDate>Wed, 18 Jun 2025 17:07:00 GMT</pubDate>
+        <media:content url="https://publish-01.obsidian.md/access/54a5cde44e33737dbd9582dc8b12cf1f/vladcampos.com/_files/2025-06-18-fed-up-with-obsidian-publish-s-limited-rss-heres-how-I-hacked-a-better-feed.png" medium="image" type="image/png" />
+    </item>
+    <item>
         <title>📃 Things you should know about Obsidian Publish —my struggles and how I&apos;m dealing with them.</title>
         <link>https://vladcampos.com/2025-06-16-things-you-should-know-about-obsidian-publish</link>
         <guid isPermaLink="true">https://vladcampos.com/2025-06-16-things-you-should-know-about-obsidian-publish</guid>
