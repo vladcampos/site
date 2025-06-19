@@ -13,6 +13,15 @@
         <link>https://vladcampos.com</link>
    </image>
     <item>
+        <title>📃 Testing Mastofeed (post with no image)</title>
+        <link>https://vladcampos.com/2025-06-19-testing-mastofeed-post-with-no-image</link>
+        <guid isPermaLink="true">https://vladcampos.com/2025-06-19-testing-mastofeed-post-with-no-image</guid>
+        <description>2025-06-19 • After hacking my own #RSS feed for my #Obsidian Publish site, it is now time to try some ideas. The first one is automating my blog posts via #Mastofeed. I just created a rule that will compose a Mastodon post using the Title, Summary, Link, and Image from my RSS feed.
+
+This first post/test has two goals. Make sure the automation is working and understand what will happen if one of the items, in this case an image, is not present in the original feed.</description>
+        <pubDate>Thu, 19 Jun 2025 09:47:00 GMT</pubDate>
+    </item>
+    <item>
         <title>📃 Fed up with Obsidian Publish&apos;s limited RSS? Here&apos;s how I hacked a better feed.</title>
         <link>https://vladcampos.com/2025-06-18-fed-up-with-obsidian-publishs-limited-rss-heres-how-I-hacked-a-better-feed</link>
         <guid isPermaLink="true">https://vladcampos.com/2025-06-18-fed-up-with-obsidian-publishs-limited-rss-heres-how-I-hacked-a-better-feed</guid>
