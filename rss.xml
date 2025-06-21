@@ -5,7 +5,7 @@
         <link>https://vladcampos.com</link>
         <description>Thoughts, articles, and videos from one enthusiast to another.</description>
         <language>en-us</language>
-        <lastBuildDate>Thu, 19 Jun 2025 09:47:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Jun 2025 11:43:00 GMT</lastBuildDate>
         <atom:link href="https://social.vladcampos.com/rss.xml" rel="self" type="application/rss+xml" />
    <image>
         <url>https://social.vladcampos.com/favicon-196x196.png</url>
@@ -13,7 +13,7 @@
         <link>https://vladcampos.com</link>
    </image>
     <item>
-        <title>📃 Testing Mastofeed (post with no image)</title>
+        <title>💬 Testing Mastofeed (post with no image)</title>
         <link>https://vladcampos.com/2025-06-19-testing-mastofeed-post-with-no-image</link>
         <guid isPermaLink="true">https://vladcampos.com/2025-06-19-testing-mastofeed-post-with-no-image</guid>
         <description>2025-06-19 • After hacking my own #RSS feed for my #Obsidian Publish site, it is now time to try some ideas. The first one is automating my blog posts via #Mastofeed. I just created a rule that will compose a Mastodon post using the Title, Summary, Link, and Image from my RSS feed.
