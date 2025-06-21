@@ -5,13 +5,21 @@
         <link>https://vladcampos.com</link>
         <description>Thoughts, articles, and videos from one enthusiast to another.</description>
         <language>en-us</language>
-        <lastBuildDate>Sat, 21 Jun 2025 11:43:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Jun 2025 15:01:00 GMT</lastBuildDate>
         <atom:link href="https://social.vladcampos.com/rss.xml" rel="self" type="application/rss+xml" />
    <image>
         <url>https://social.vladcampos.com/favicon-196x196.png</url>
         <title>vladcampos.com</title>
         <link>https://vladcampos.com</link>
    </image>
+    <item>
+        <title>📃 The day I almost ditched Medium. It turns out it was saving my site.</title>
+        <link>https://vladcampos.com/2025-06-21-the-day-i-almost-ditched-medium-it-turns-out-it-was-saving-my-site</link>
+        <guid isPermaLink="true">https://vladcampos.com/2025-06-21-the-day-i-almost-ditched-medium-it-turns-out-it-was-saving-my-site</guid>
+        <description>Where is my site? Even a direct search for my name brought back Medium&apos;s logo at the top of the list. Why is Medium now my main digital footprint? Why did my digital home suddenly vanish from Google&apos;s search results?</description>
+        <pubDate>Sat, 21 Jun 2025 15:01:00 GMT</pubDate>
+        <media:content url="https://publish-01.obsidian.md/access/54a5cde44e33737dbd9582dc8b12cf1f/vladcampos.com/_files/2025-06-21-the-day-i-almost-ditched-medium.png" medium="image" type="image/png" />
+    </item>
     <item>
         <title>💬 Testing Mastofeed (post with no image)</title>
         <link>https://vladcampos.com/2025-06-19-testing-mastofeed-post-with-no-image</link>
