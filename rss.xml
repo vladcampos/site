@@ -5,13 +5,21 @@
         <link>https://vladcampos.com</link>
         <description>Thoughts, articles, and videos from one enthusiast to another.</description>
         <language>en-us</language>
-        <lastBuildDate>Mon, 23 Jun 2025 16:31:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Jun 2025 16:59:00 GMT</lastBuildDate>
         <atom:link href="https://social.vladcampos.com/rss.xml" rel="self" type="application/rss+xml" />
    <image>
         <url>https://social.vladcampos.com/favicon-196x196.png</url>
         <title>vladcampos.com</title>
         <link>https://vladcampos.com</link>
    </image>
+    <item>
+        <title>📃 Refining my note-taking workflow—lessons from Evernote for Obsidian.</title>
+        <link>Dynamically switching between multiple views of the same information is a strategy I used a lot in the past. However, I lost that when I moved to #Obsidian, as I find its handling of lists of notes less intuitive than #Evernote ’s elegant approach. 👇  https://vladcampos.com/2025-06-24-refining-my-note-taking-workflow-lessons-from-evernote-for-obsidian</link>
+        <guid isPermaLink="true">Dynamically switching between multiple views of the same information is a strategy I used a lot in the past. However, I lost that when I moved to #Obsidian, as I find its handling of lists of notes less intuitive than #Evernote ’s elegant approach. 👇  https://vladcampos.com/2025-06-24-refining-my-note-taking-workflow-lessons-from-evernote-for-obsidian</guid>
+        <description>As someone who believes that serious note-taking needs a solid system, I’ve frequently encountered a challenge: effectively managing my ever-growing collection of notes. Dynamically switching between multiple views of the same information is a strategy I used a lot in the past. However, I lost that when I moved to Obsidian, as I find its handling of lists of notes less intuitive than Evernote’s elegant approach.</description>
+        <pubDate>Tue, 24 Jun 2025 16:59:00 GMT</pubDate>
+        <media:content url="https://publish-01.obsidian.md/access/54a5cde44e33737dbd9582dc8b12cf1f/vladcampos.com/_files/2025-06-24-refining-my-note-taking-workflow.png" medium="image" type="image/png" />
+    </item>
     <item>
         <title>📃 Another reason why I love how hackable the Supernote is. It now precisely fits my EDC setup.</title>
         <link>https://vladcampos.com/2025-06-23-another-reason-why-i-love-how-hackable-the-supernote-is-it-now-precisely-fits-my-edc-setup</link>
