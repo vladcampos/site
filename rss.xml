@@ -5,13 +5,21 @@
         <link>https://vladcampos.com</link>
         <description>Thoughts, articles, and videos from one enthusiast to another.</description>
         <language>en-us</language>
-        <lastBuildDate>Sat, 28 Jun 2025 07:55:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Jun 2025 14:39:00 GMT</lastBuildDate>
         <atom:link href="https://social.vladcampos.com/rss.xml" rel="self" type="application/rss+xml" />
    <image>
         <url>https://social.vladcampos.com/favicon-196x196.png</url>
         <title>vladcampos.com</title>
         <link>https://vladcampos.com</link>
    </image>
+    <item>
+        <title>📃 A few cool things I recently discovered about RSS feeds. Spoiler — they have super-powers. </title>
+        <link>https://vladcampos.com/2025-06-28-a-few-cool-things-i-recently-discovered-about-rss-feeds</link>
+        <guid isPermaLink="true">https://vladcampos.com/2025-06-28-a-few-cool-things-i-recently-discovered-about-rss-feeds</guid>
+        <description>Even if you don’t know what RSS is, chances are you have it on your blog. What you may not know is how it can help you set up a newsletter and automatically share your blog posts on social media, among other things. Is it worth it? Well, I tried some ideas, and I have a few thoughts to share with you.</description>
+        <pubDate>Sat, 28 Jun 2025 14:39:00 GMT</pubDate>
+        <media:content url="https://publish-01.obsidian.md/access/54a5cde44e33737dbd9582dc8b12cf1f/vladcampos.com/_files/2025-06-28-rss-logo.png" medium="image" type="image/png" />
+    </item>
     <item>
         <title>💬 What time...</title>
         <link>https://vladcampos.com/2025-06-28-what-time</link>
