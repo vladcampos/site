@@ -5,7 +5,7 @@
         <link>https://vladcampos.com</link>
         <description>Thoughts, articles, and videos from one enthusiast to another.</description>
         <language>en-us</language>
-        <lastBuildDate>Sun, 29 Jun 2025 09:58:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Jun 2025 19:54:00 GMT</lastBuildDate>
         <atom:link href="https://social.vladcampos.com/rss.xml" rel="self" type="application/rss+xml" />
    <image>
         <url>https://social.vladcampos.com/favicon-196x196.png</url>
@@ -13,6 +13,13 @@
         <link>https://vladcampos.com</link>
    </image>
     <item>
+        <title>📃 I created my own AI, but it is not what you are thinking.</title>
+        <link>https://vladcampos.com/2025-06-29-i-created-my-own-ai-but-it-is-not-what-you-are-thinking</link>
+        <guid isPermaLink="true">https://vladcampos.com/2025-06-29-i-created-my-own-ai-but-it-is-not-what-you-are-thinking</guid>
+        <description>As I’ve said many other times, I believe there are some technologies that reached a stage of maturity where they could just be used indefinitely. What many people seem not to know is that it’s possible to go back to enjoying that sweet spot.</description>
+        <pubDate>Sun, 29 Jun 2025 19:54:00 GMT</pubDate>
+        <media:content url="https://publish-01.obsidian.md/access/54a5cde44e33737dbd9582dc8b12cf1f/vladcampos.com/_files/2025-06-29-i-created-my-own-ai-but-it-is-not-what-you-are-thinking.png" medium="image" type="image/png" />
+    </item>
     <item>
         <title>📷 Good morning, coffee friends.</title>
         <link>https://vladcampos.com/2025-06-29-good-morning-coffee-friends</link>
@@ -21,6 +28,7 @@
         <pubDate>Sun, 29 Jun 2025 09:58:00 GMT</pubDate>
         <media:content url="https://publish-01.obsidian.md/access/54a5cde44e33737dbd9582dc8b12cf1f/vladcampos.com/_photos/2025-06-29-good-morning-coffee-friends.jpg" medium="image" type="image/jpeg" />
     </item>
+    <item>
         <title>📃 A few cool things I recently discovered about RSS feeds. Spoiler — they have super-powers. </title>
         <link>https://vladcampos.com/2025-06-28-a-few-cool-things-i-recently-discovered-about-rss-feeds</link>
         <guid isPermaLink="true">https://vladcampos.com/2025-06-28-a-few-cool-things-i-recently-discovered-about-rss-feeds</guid>
