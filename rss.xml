@@ -5,13 +5,20 @@
         <link>https://vladcampos.com</link>
         <description>Thoughts, articles, and videos from one enthusiast to another.</description>
         <language>en-us</language>
-        <lastBuildDate>Sun, 29 Jun 2025 19:54:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 1 Jul 2025 13:15:00 GMT</lastBuildDate>
         <atom:link href="https://social.vladcampos.com/rss.xml" rel="self" type="application/rss+xml" />
    <image>
         <url>https://social.vladcampos.com/favicon-196x196.png</url>
         <title>vladcampos.com</title>
         <link>https://vladcampos.com</link>
    </image>
+    <item>
+        <title>📺 feedle—discover new blogs and podcasts + create your own RSS feeds.</title>
+        <link>https://vladcampos.com/2025-07-01-feedle-discover-new-blogs-and-podcasts-create-your-own-rss-feeds</link>
+        <guid isPermaLink="true">https://vladcampos.com/2025-07-01-feedle-discover-new-blogs-and-podcasts-create-your-own-rss-feeds</guid>
+        <description>If you are an RSS lover like me, I think you should check feedle. Imagine having an RSS feed to follow a topic with posts from multiple creators. And what about narrowing that down even further to track posts about that specific topic but from a single creator? In today&apos;s video, I&apos;m showing how to do both.</description>
+        <pubDate>Tue, 1 Jul 2025 13:15:00 GMT</pubDate>
+    </item>
     <item>
         <title>📃 I created my own AI, but it is not what you are thinking.</title>
         <link>https://vladcampos.com/2025-06-29-i-created-my-own-ai-but-it-is-not-what-you-are-thinking</link>
