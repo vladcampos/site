@@ -5,13 +5,20 @@
         <link>https://vladcampos.com</link>
         <description>Thoughts, articles, and videos from one enthusiast to another.</description>
         <language>en-us</language>
-        <lastBuildDate>Wed, 2 Jul 2025 17:52:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 3 Jul 2025 12:34:00 GMT</lastBuildDate>
         <atom:link href="https://social.vladcampos.com/rss.xml" rel="self" type="application/rss+xml" />
    <image>
         <url>https://social.vladcampos.com/favicon-196x196.png</url>
         <title>vladcampos.com</title>
         <link>https://vladcampos.com</link>
    </image>
+    <item>
+        <title>📺 Read your Calibre books on iPad, Android &amp; more with BookFusion (how-to)</title>
+        <link>https://vladcampos.com/2025-07-03-read-your-calibre-books-on-ipad-android-and-more-with-bookfusion</link>
+        <guid isPermaLink="true">https://vladcampos.com/2025-07-03-read-your-calibre-books-on-ipad-android-and-more-with-bookfusion</guid>
+        <description>Want to read your Calibre eBooks anywhere? 📚 This how-to guide shows you how to easily export them to BookFusion. Use your iPhone, iPad, Android, and others to not just read, but also synchronize annotations, highlights, and your reading position across all your devices!</description>
+        <pubDate>Thu, 3 Jul 2025 12:34:00 GMT</pubDate>
+    </item>
     <item>
         <title>📺 Keeping track of Read It Later articles with the Timeline System</title>
         <link>https://vladcampos.com/2025-07-02-keeping-track-of-read-it-later-articles-with-the-timeline-system</link>
