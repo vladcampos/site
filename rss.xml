@@ -5,13 +5,20 @@
         <link>https://vladcampos.com</link>
         <description>Thoughts, articles, and videos from one enthusiast to another.</description>
         <language>en-us</language>
-        <lastBuildDate>Fri, 4 Jul 2025 14:35:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 5 Jul 2025 14:38:00 GMT</lastBuildDate>
         <atom:link href="https://social.vladcampos.com/rss.xml" rel="self" type="application/rss+xml" />
    <image>
         <url>https://social.vladcampos.com/favicon-196x196.png</url>
         <title>vladcampos.com</title>
         <link>https://vladcampos.com</link>
    </image>
+    <item>
+        <title>📺 How to set a folder for new attachments in Obsidian (how-to)</title>
+        <link>https://vladcampos.com/2025-07-05-how-to-set-a-folder-for-new-attachments-in-obsidian-how-to</link>
+        <guid isPermaLink="true">https://vladcampos.com/2025-07-05-how-to-set-a-folder-for-new-attachments-in-obsidian-how-to</guid>
+        <description>When you drag an image to an Obsidian note, it must be stored in a folder. By default, it goes to the main folder of your Vault, but you can change that.</description>
+        <pubDate>Sat, 5 Jul 2025 14:38:00 GMT</pubDate>
+    </item>
     <item>
         <title>📺 Slax Note—easily capture &amp; transform your ideas (how-to) </title>
         <link>https://vladcampos.com/2025-07-04-slax-note-easily-capture-and-transform-your-ideas-how-to</link>
