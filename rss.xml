@@ -5,13 +5,21 @@
         <link>https://vladcampos.com</link>
         <description>Thoughts, articles, and videos from one enthusiast to another.</description>
         <language>en-us</language>
-        <lastBuildDate>Sat, 5 Jul 2025 14:38:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 6 Jul 2025 14:15:00 GMT</lastBuildDate>
         <atom:link href="https://social.vladcampos.com/rss.xml" rel="self" type="application/rss+xml" />
    <image>
         <url>https://social.vladcampos.com/favicon-196x196.png</url>
         <title>vladcampos.com</title>
         <link>https://vladcampos.com</link>
    </image>
+    <item>
+        <title>📃 Tweaking some Obsidian plugins (weekend housekeeping)</title>
+        <link>https://vladcampos.com/2025-07-06-tweaking-some-obsidian-plugins-weekend-housekeeping</link>
+        <guid isPermaLink="true">https://vladcampos.com/2025-07-06-tweaking-some-obsidian-plugins-weekend-housekeeping</guid>
+        <description>Yesterday, I spent some time adjusting the settings of two Obsidian plugins — Voicenotes and BookFusion. That inevitably got me thinking about how cool it is to have apps and services automatically send information to a centralized space. What’s even cooler is that even if Obsidian ceases to exist tomorrow, all the files will still be organized and available in my computer’s file system.</description>
+        <pubDate>Sun, 6 Jul 2025 14:15:00 GMT</pubDate>
+        <media:content url="https://publish-01.obsidian.md/access/54a5cde44e33737dbd9582dc8b12cf1f/vladcampos.com/_files/2025-07-06-booksfusion-reading-list.png" medium="image" type="image/png" />
+    </item>
     <item>
         <title>📺 How to set a folder for new attachments in Obsidian (how-to)</title>
         <link>https://vladcampos.com/2025-07-05-how-to-set-a-folder-for-new-attachments-in-obsidian-how-to</link>
