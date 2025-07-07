@@ -5,13 +5,21 @@
         <link>https://vladcampos.com</link>
         <description>Thoughts, articles, and videos from one enthusiast to another.</description>
         <language>en-us</language>
-        <lastBuildDate>Sun, 6 Jul 2025 14:15:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 7 Jul 2025 11:04:00 GMT</lastBuildDate>
         <atom:link href="https://social.vladcampos.com/rss.xml" rel="self" type="application/rss+xml" />
    <image>
         <url>https://social.vladcampos.com/favicon-196x196.png</url>
         <title>vladcampos.com</title>
         <link>https://vladcampos.com</link>
    </image>
+    <item>
+        <title>📃 Experimenting with Voicenotes integration into Obsidian blog</title>
+        <link>https://vladcampos.com/2025-07-06-experimenting-with-voicenotes-integration-into-obsidian-blog</link>
+        <guid isPermaLink="true">https://vladcampos.com/2025-07-06-experimenting-with-voicenotes-integration-into-obsidian-blog</guid>
+        <description>I&apos;m using the unofficial Voicenotes plugin in Obsidian and I have it set to download everything. Not only the text but also the audio, the attachments, everything. I even have some properties that will capture links, the title, and a lot of other information.</description>
+        <pubDate>Mon, 7 Jul 2025 11:04:00 GMT</pubDate>
+        <media:content url="https://vladcampos.com/_files/logo-vcc-1400-1400.png" medium="image" type="image/png" />
+    </item>
     <item>
         <title>📃 Tweaking some Obsidian plugins (weekend housekeeping)</title>
         <link>https://vladcampos.com/2025-07-06-tweaking-some-obsidian-plugins-weekend-housekeeping</link>
