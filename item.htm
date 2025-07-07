@@ -167,12 +167,18 @@
             return `${dayOfWeek}, ${dayOfMonth} ${month} ${year} ${hours}:${minutes}:${seconds} GMT`;
         }
 
-        // Set current date/time to the input field on load
+        // Set current date/time and pre-populate fields on load
         window.onload = function() {
             const now = new Date();
             // Adjust for local timezone offset to display correctly in datetime-local input
             now.setMinutes(now.getMinutes() - now.getTimezoneOffset());
             document.getElementById('pubDate').value = now.toISOString().slice(0, 16); //YYYY-MM-DDTHH:MM format
+
+            // Pre-populate Post Link
+            document.getElementById('postLink').value = 'https://vladcampos.com';
+
+            // Pre-populate Thumbnail URL
+            document.getElementById('thumbnailUrl').value = 'https://vladcampos.com/_files/logo-vcc-1400-1400.png';
         };
 
         // Escape special characters for XML
@@ -187,7 +193,7 @@
         function generateRSSItem() {
             const title = document.getElementById('postTitle').value;
             const link = document.getElementById('postLink').value;
-            const thumbnailUrl = document.getElementById('thumbnailUrl').value; // NEW: Get thumbnail URL
+            const thumbnailUrl = document.getElementById('thumbnailUrl').value;
             const description = document.getElementById('description').value;
             const pubDateInput = document.getElementById('pubDate').value;
 
