@@ -5,13 +5,21 @@
         <link>https://vladcampos.com</link>
         <description>Thoughts, articles, and videos from one enthusiast to another.</description>
         <language>en-us</language>
-        <lastBuildDate>Tue, 8 Jul 2025 14:19:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 8 Jul 2025 18:01:00 GMT</lastBuildDate>
         <atom:link href="https://social.vladcampos.com/rss.xml" rel="self" type="application/rss+xml" />
    <image>
         <url>https://social.vladcampos.com/favicon-196x196.png</url>
         <title>vladcampos.com</title>
         <link>https://vladcampos.com</link>
    </image>
+    <item>
+        <title>📺 Outsourcing insights to AI is probably not a good idea.</title>
+        <link>https://vladcampos.com/2025-07-08-outsourcing-insights-to-ai-is-probably-not-a-good-idea</link>
+        <guid isPermaLink="true">https://vladcampos.com/2025-07-08-outsourcing-insights-to-ai-is-probably-not-a-good-idea</guid>
+        <description>I&apos;ve been thinking a lot about how tempting it is to outsource more and more tasks to these powerful AI tools. Where should we draw the line to preserve our critical thinking, insights, and so many other human qualities that are still far superior to what AI could accomplish for us?</description>
+        <pubDate>Tue, 8 Jul 2025 18:01:00 GMT</pubDate>
+        <media:content url="https://publish-01.obsidian.md/access/54a5cde44e33737dbd9582dc8b12cf1f/vladcampos.com/_files/logo-vcc-1400-1400.png" medium="image" type="image/png" />
+    </item>
     <item>
         <title>💬 There&apos;s no need to call my boss.</title>
         <link>https://vladcampos.com/2025-07-08-theres-no-need-to-call-my-boss</link>
