@@ -5,13 +5,21 @@
         <link>https://vladcampos.com</link>
         <description>Thoughts, articles, and videos from one enthusiast to another.</description>
         <language>en-us</language>
-        <lastBuildDate>Wed, 9 Jul 2025 10:52:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Jul 2025 15:36:00 GMT</lastBuildDate>
         <atom:link href="https://social.vladcampos.com/rss.xml" rel="self" type="application/rss+xml" />
    <image>
         <url>https://social.vladcampos.com/favicon-196x196.png</url>
         <title>vladcampos.com</title>
         <link>https://vladcampos.com</link>
    </image>
+    <item>
+        <title>📺 The SINGLE Template challenge (update)</title>
+        <link>https://vladcampos.com/2025-07-10-the-single-template-challenge-update</link>
+        <guid isPermaLink="true">https://vladcampos.com/2025-07-10-the-single-template-challenge-update</guid>
+        <description>I managed to go from 3 Obsidian templates down to 2 using a very basic hack. And honestly, I think I could even get to just one with a little more courage! I also added a new &quot;time&quot; property to my templates, getting things ready for how I plan to use the upcoming Bases plugin.</description>
+        <pubDate>Thu, 10 Jul 2025 15:36:00 GMT</pubDate>
+        <media:content url="https://publish-01.obsidian.md/access/54a5cde44e33737dbd9582dc8b12cf1f/vladcampos.com/_files/logo-vcc-1400-1400.png" medium="image" type="image/png" />
+    </item>
     <item>
         <title>📃 Returning to a beloved book universe</title>
         <link>https://vladcampos.com/2025-07-09-returning-to-a-beloved-book-universe</link>
