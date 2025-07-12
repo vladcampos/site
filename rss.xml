@@ -5,13 +5,21 @@
         <link>https://vladcampos.com</link>
         <description>Thoughts, articles, and videos from one enthusiast to another.</description>
         <language>en-us</language>
-        <lastBuildDate>Thu, 10 Jul 2025 15:36:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Jul 2025 20:31:00 GMT</lastBuildDate>
         <atom:link href="https://social.vladcampos.com/rss.xml" rel="self" type="application/rss+xml" />
    <image>
         <url>https://social.vladcampos.com/favicon-196x196.png</url>
         <title>vladcampos.com</title>
         <link>https://vladcampos.com</link>
    </image>
+    <item>
+        <title>📃 My Obsidian Publish infinite loop. The saga of creating new problems by solving others.</title>
+        <link>https://vladcampos.com/2025-07-12-my-obsidian-publish-infinite-loop-the-saga-of-creating-new-problems-by-solving-others</link>
+        <guid isPermaLink="true">https://vladcampos.com/2025-07-12-my-obsidian-publish-infinite-loop-the-saga-of-creating-new-problems-by-solving-others</guid>
+        <description>It&apos;s incredible how solutions can have a side effect, creating new obstacles. And I secretly love dealing with that challenge.</description>
+        <pubDate>Sat, 12 Jul 2025 20:31:00 GMT</pubDate>
+        <media:content url="https://publish-01.obsidian.md/access/54a5cde44e33737dbd9582dc8b12cf1f/vladcampos.com/_files/2025-07-12-my-obsidian-publish-infinite-loop.png" medium="image" type="image/png" />
+    </item>
     <item>
         <title>📺 The SINGLE Template challenge (update)</title>
         <link>https://vladcampos.com/2025-07-10-the-single-template-challenge-update</link>
