@@ -5,13 +5,21 @@
         <link>https://vladcampos.com</link>
         <description>Thoughts, articles, and videos from one enthusiast to another.</description>
         <language>en-us</language>
-        <lastBuildDate>Sat, 12 Jul 2025 20:31:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Jul 2025 10:51:00 GMT</lastBuildDate>
         <atom:link href="https://social.vladcampos.com/rss.xml" rel="self" type="application/rss+xml" />
    <image>
         <url>https://social.vladcampos.com/favicon-196x196.png</url>
         <title>vladcampos.com</title>
         <link>https://vladcampos.com</link>
    </image>
+    <item>
+        <title>📃 It seems like you don&apos;t have to wait four hours like they said in the official Obsidian Forum.</title>
+        <link>https://vladcampos.com/2025-07-14-it-seems-like-you-dont-have-to-wait-four-hours-like-they-said-in-the-official-obsidian-forum</link>
+        <guid isPermaLink="true">https://vladcampos.com/2025-07-14-it-seems-like-you-dont-have-to-wait-four-hours-like-they-said-in-the-official-obsidian-forum</guid>
+        <description>After additional experiments with sharing the Obsidian Publish permalinks on social media, I discovered that if I do so two hours after the page goes live, the image will appear on the social media post.</description>
+        <pubDate>Mon, 14 Jul 2025 10:51:00 GMT</pubDate>
+        <media:content url="https://publish-01.obsidian.md/access/54a5cde44e33737dbd9582dc8b12cf1f/vladcampos.com/_files/logo-vcc-1400-1400.png" medium="image" type="image/png" />
+    </item>
     <item>
         <title>📃 My Obsidian Publish infinite loop. The saga of creating new problems by solving others.</title>
         <link>https://vladcampos.com/2025-07-12-my-obsidian-publish-infinite-loop-the-saga-of-creating-new-problems-by-solving-others</link>
