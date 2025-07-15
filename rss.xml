@@ -5,13 +5,21 @@
         <link>https://vladcampos.com</link>
         <description>Thoughts, articles, and videos from one enthusiast to another.</description>
         <language>en-us</language>
-        <lastBuildDate>Mon, 14 Jul 2025 10:51:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Jul 2025 18:39:00 GMT</lastBuildDate>
         <atom:link href="https://social.vladcampos.com/rss.xml" rel="self" type="application/rss+xml" />
    <image>
         <url>https://social.vladcampos.com/favicon-196x196.png</url>
         <title>vladcampos.com</title>
         <link>https://vladcampos.com</link>
    </image>
+    <item>
+        <title>📺 Supernote Cloud ⚙️ Setup, Sync &amp; To-Do (vs. Google Drive, Dropbox, and OneDrive)</title>
+        <link>https://vladcampos.com/2025-07-15-supernote-cloud-setup-sync-and-to-do</link>
+        <guid isPermaLink="true">https://vladcampos.com/2025-07-15-supernote-cloud-setup-sync-and-to-do</guid>
+        <description>This is a detailed video about setting up and using the Supernote Cloud and the Supernote Tasks. Plus, I also discuss the pros &amp; cons of using Google Drive, Dropbox, or #OneDrive with your device. 🍿 It&apos;s a long one, so grab some popcorn!</description>
+        <pubDate>Tue, 15 Jul 2025 18:39:00 GMT</pubDate>
+        <media:content url="https://publish-01.obsidian.md/access/54a5cde44e33737dbd9582dc8b12cf1f/vladcampos.com/_files/logo-vcc-1400-1400.png" medium="image" type="image/png" />
+    </item>
     <item>
         <title>📺 Using the Timeline System in Scrintal.</title>
         <link>https://vladcampos.com/2025-07-14-using-the-timeline-system-in-scrintal</link>
