@@ -5,13 +5,21 @@
         <link>https://vladcampos.com</link>
         <description>Thoughts, articles, and videos from one enthusiast to another.</description>
         <language>en-us</language>
-        <lastBuildDate>Tue, 15 Jul 2025 18:39:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Jul 2025 16:20:00 GMT</lastBuildDate>
         <atom:link href="https://social.vladcampos.com/rss.xml" rel="self" type="application/rss+xml" />
    <image>
         <url>https://social.vladcampos.com/favicon-196x196.png</url>
         <title>vladcampos.com</title>
         <link>https://vladcampos.com</link>
    </image>
+    <item>
+        <title>📺 I had to hack the Supernote pen holder 🫣</title>
+        <link>https://vladcampos.com/2025-07-19-i-had-to-hack-the-supernote-pen-holder</link>
+        <guid isPermaLink="true">https://vladcampos.com/2025-07-19-i-had-to-hack-the-supernote-pen-holder</guid>
+        <description>That penholder on the Nomad case is very convenient, but when I wanted to bring the Supernote in my EDC pouch, it was always a pain to make it fit. So, I had to hack it.</description>
+        <pubDate>Sat, 19 Jul 2025 16:20:00 GMT</pubDate>
+        <media:content url="https://publish-01.obsidian.md/access/54a5cde44e33737dbd9582dc8b12cf1f/vladcampos.com/_files/logo-vcc-1400-1400.png" medium="image" type="image/png" />
+    </item>
     <item>
         <title>📺 Bringing my old Pebble back to life (part 1)</title>
         <link>https://vladcampos.com/2025-07-18-bringing-my-old-pebble-back-to-life-part-1</link>
