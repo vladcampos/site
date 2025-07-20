@@ -5,13 +5,21 @@
         <link>https://vladcampos.com</link>
         <description>Thoughts, articles, and videos from one enthusiast to another.</description>
         <language>en-us</language>
-        <lastBuildDate>Sat, 19 Jul 2025 16:20:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Jul 2025 14:58:00 GMT</lastBuildDate>
         <atom:link href="https://social.vladcampos.com/rss.xml" rel="self" type="application/rss+xml" />
    <image>
         <url>https://social.vladcampos.com/favicon-196x196.png</url>
         <title>vladcampos.com</title>
         <link>https://vladcampos.com</link>
    </image>
+    <item>
+        <title>📺 The Obsidian plugin upgrade I asked for… and BookFusion delivered!</title>
+        <link>https://vladcampos.com/2025-07-20-the-obsidian-plugin-upgrade-i-asked-for-and-bookfusion-delivered</link>
+        <guid isPermaLink="true">https://vladcampos.com/2025-07-20-the-obsidian-plugin-upgrade-i-asked-for-and-bookfusion-delivered</guid>
+        <description>They did it! I asked the BookFusion team for a key upgrade to their Obsidian plugin, and it&apos;s now working perfectly. The “Completed” and “Currently Reading” notes are now being automatically created and synchronized.</description>
+        <pubDate>Sun, 20 Jul 2025 14:58:00 GMT</pubDate>
+        <media:content url="https://publish-01.obsidian.md/access/54a5cde44e33737dbd9582dc8b12cf1f/vladcampos.com/_files/logo-vcc-1400-1400.png" medium="image" type="image/png" />
+    </item>
     <item>
         <title>📺 I had to hack the Supernote pen holder 🫣</title>
         <link>https://vladcampos.com/2025-07-19-i-had-to-hack-the-supernote-pen-holder</link>
